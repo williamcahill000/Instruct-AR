@@ -6696,7 +6696,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
@@ -6709,7 +6709,7 @@ PrefabInstance:
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 1555761924}
+      objectReference: {fileID: 8841354097385089040}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -6732,7 +6732,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: ToggleTargetChild
+      value: Dance
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
@@ -6744,7 +6744,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
-      value: ModelManager, Assembly-CSharp
+      value: AnimationController, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6293782215702940608, guid: e157d31e347240046bc22a96e5cc32be, type: 3}
       propertyPath: TouchBegin.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
